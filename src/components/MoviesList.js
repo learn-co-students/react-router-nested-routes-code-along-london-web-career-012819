@@ -11,4 +11,4 @@ const MoviesList = ({movies}) => {
     )
 }
 
-export default MoviesList
+export default MoviesList 
